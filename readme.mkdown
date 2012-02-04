@@ -1,0 +1,8 @@
+WebFace? architecture
+
+* support 5-col layout
+* support Tab/Dialog control
+* clear Module/Program architecture
+* single-page for entire web application
+* easier debugging and testing
+
